@@ -11,7 +11,7 @@ sites:
       - 404
     __dangerous__insecure: true
 
-  - name: cloudflare
+  - name: CloudflareAccess @ SJang
     url: https://sjang.cloudflareaccess.com/#/NoAuth
     expectedStatusCodes:
       - 200
