@@ -1,25 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: SJang1 # Your GitHub username
+repo: ServerStatus # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Desktop_Outline_API
+    url: $SECRET_SITE_1
+    method: GET
+    expectedStatusCodes:
+      - 404
+    __dangerous__insecure: true
+
+  - name: cloudflare
+    url: https://sjang.cloudflareaccess.com/#/NoAuth
+    expectedStatusCodes:
+      - 404
+
+  - name: sjang.xyz
+    url: https://sjang.xyz/
+    
+  - name: sjang.xyz - ping
+    url: https://sjang.xyz/ping
+    
+  - name: dl-server-1@sjang.xyz
+    url: http://dl.sjang.xyz/
+    
+  - name: dl-server-2@sjang.xyz
+    url: http://dl2.sjang.xyz/
+    
+  - name: dl-server-3@sjang.xyz
+    url: http://dl3.sjang.xyz/
+    
+  - name: desktop.sjang.dev - ping
+    url: https://desktop.sjang.dev/ping
+    
+  - name: upload.sjang.xyz - ping
+    url: https://upload.sjang.xyz/ping
+    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /ServerStatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -29,6 +51,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+notifications:
+  - type: discord
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
