@@ -1,42 +1,74 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Desktop_Outline_API",
+    "url": "$SECRET_SITE_1",
+    "slug": "desktop-outline-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 127
+    "time": 773
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "CloudflareAccess @ SJang",
+    "url": "https://sjang.cloudflareaccess.com/#/NoAuth",
+    "slug": "cloudflare-access-s-jang",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 344
+    "uptime": "100.00%",
+    "time": 185
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "sjang.xyz",
+    "url": "https://sjang.xyz/",
+    "slug": "sjang-xyz",
     "status": "down",
     "uptime": "0.00%",
     "time": 0
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "sjang.xyz - ping",
+    "url": "https://sjang.xyz/ping",
+    "slug": "sjang-xyz-ping",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 0
+  },
+  {
+    "name": "dl-server-1@sjang.xyz",
+    "url": "http://dl.sjang.xyz/",
+    "slug": "dl-server-1-sjang-xyz",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 0
+  },
+  {
+    "name": "dl-server-2@sjang.xyz",
+    "url": "http://dl2.sjang.xyz/",
+    "slug": "dl-server-2-sjang-xyz",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 277
+  },
+  {
+    "name": "dl-server-3@sjang.xyz",
+    "url": "http://dl3.sjang.xyz/",
+    "slug": "dl-server-3-sjang-xyz",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 0
+  },
+  {
+    "name": "desktop.sjang.dev - ping",
+    "url": "https://desktop.sjang.dev/ping",
+    "slug": "desktop-sjang-dev-ping",
     "status": "up",
-    "uptime": "99.98%",
-    "time": 49
+    "uptime": "100.00%",
+    "time": 555
+  },
+  {
+    "name": "upload.sjang.xyz - ping",
+    "url": "https://upload.sjang.xyz/ping",
+    "slug": "upload-sjang-xyz-ping",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 601
   }
 ]
