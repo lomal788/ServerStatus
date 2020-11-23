@@ -19,6 +19,7 @@ sites:
 
   - name: sjang.xyz
     url: https://sjang.xyz/
+    maxResponseTime: 2000
     
   - name: sjang.xyz - ping
     url: https://sjang.xyz/ping
