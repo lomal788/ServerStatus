@@ -5,7 +5,7 @@
     "slug": "desktop-outline-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 772
+    "time": 764
   },
   {
     "name": "CloudflareAccess @ SJang",
@@ -13,7 +13,7 @@
     "slug": "cloudflare-access-s-jang",
     "status": "up",
     "uptime": "100.00%",
-    "time": 187
+    "time": 184
   },
   {
     "name": "sjang.xyz",
@@ -45,7 +45,7 @@
     "slug": "dl-server-2-sjang-xyz",
     "status": "down",
     "uptime": "0.00%",
-    "time": 281
+    "time": 283
   },
   {
     "name": "dl-server-3@sjang.xyz",
@@ -61,7 +61,7 @@
     "slug": "desktop-sjang-dev-ping",
     "status": "up",
     "uptime": "100.00%",
-    "time": 540
+    "time": 539
   },
   {
     "name": "upload.sjang.xyz - ping",
@@ -69,6 +69,6 @@
     "slug": "upload-sjang-xyz-ping",
     "status": "up",
     "uptime": "100.00%",
-    "time": 582
+    "time": 579
   }
 ]
