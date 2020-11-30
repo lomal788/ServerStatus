@@ -59,16 +59,16 @@
     "name": "desktop.sjang.dev - ping",
     "url": "https://desktop.sjang.dev/ping",
     "slug": "desktop-sjang-dev-ping",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 495
+    "status": "up",
+    "uptime": "96.27%",
+    "time": 504
   },
   {
     "name": "upload.sjang.xyz - ping",
     "url": "https://upload.sjang.xyz/ping",
     "slug": "upload-sjang-xyz-ping",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 529
+    "status": "up",
+    "uptime": "96.27%",
+    "time": 547
   }
 ]
