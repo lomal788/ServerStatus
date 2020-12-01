@@ -4,8 +4,8 @@
     "url": "$SECRET_SITE_1",
     "slug": "desktop-outline-api",
     "status": "down",
-    "uptime": "99.96%",
-    "time": 704
+    "uptime": "94.82%",
+    "time": 640
   },
   {
     "name": "CloudflareAccess @ SJang",
@@ -13,7 +13,7 @@
     "slug": "cloudflare-access-s-jang",
     "status": "up",
     "uptime": "100.00%",
-    "time": 176
+    "time": 170
   },
   {
     "name": "sjang.xyz",
@@ -45,7 +45,7 @@
     "slug": "dl-server-2-sjang-xyz",
     "status": "down",
     "uptime": "0.00%",
-    "time": 284
+    "time": 288
   },
   {
     "name": "dl-server-3@sjang.xyz",
@@ -60,15 +60,15 @@
     "url": "https://desktop.sjang.dev/ping",
     "slug": "desktop-sjang-dev-ping",
     "status": "down",
-    "uptime": "96.34%",
-    "time": 462
+    "uptime": "91.39%",
+    "time": 426
   },
   {
     "name": "upload.sjang.xyz - ping",
     "url": "https://upload.sjang.xyz/ping",
     "slug": "upload-sjang-xyz-ping",
     "status": "down",
-    "uptime": "96.35%",
-    "time": 502
+    "uptime": "91.40%",
+    "time": 463
   }
 ]
