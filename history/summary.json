@@ -2,22 +2,29 @@
   {
     "name": "Desktop_Outline_API",
     "url": "$SECRET_SITE_1",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "desktop-outline-api",
-    "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.01%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "95.48%",
+    "status": "down",
+    "uptime": "95.55%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "90.96%",
+    "uptimeMonth": "95.55%",
+    "uptimeYear": "95.55%",
     "time": 795,
     "timeDay": 929,
     "timeWeek": 810,
     "timeMonth": 795,
-    "timeYear": 795
+    "timeYear": 795,
+    "dailyMinutesDown": {
+      "2020-12-07": 5,
+      "2020-12-01": 330,
+      "2020-11-30": 577
+    }
   },
   {
     "name": "CloudflareAccess @ SJang",
     "url": "https://sjang.cloudflareaccess.com/#/NoAuth",
+    "icon": "https://favicons.githubusercontent.com/sjang.cloudflareaccess.com",
     "slug": "cloudflare-access-s-jang",
     "status": "up",
     "uptime": "100.00%",
@@ -29,11 +36,13 @@
     "timeDay": 102,
     "timeWeek": 152,
     "timeMonth": 166,
-    "timeYear": 166
+    "timeYear": 166,
+    "dailyMinutesDown": {}
   },
   {
     "name": "sjang.xyz",
     "url": "https://sjang.xyz/",
+    "icon": "https://favicons.githubusercontent.com/sjang.xyz",
     "slug": "sjang-xyz",
     "status": "down",
     "uptime": "0.00%",
@@ -45,11 +54,29 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 428,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 1440,
+      "2020-11-26": 1440,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 1340
+    }
   },
   {
     "name": "sjang.xyz - ping",
     "url": "https://sjang.xyz/ping",
+    "icon": "https://favicons.githubusercontent.com/sjang.xyz",
     "slug": "sjang-xyz-ping",
     "status": "down",
     "uptime": "0.00%",
@@ -61,11 +88,29 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 428,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 1440,
+      "2020-11-26": 1440,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 1338
+    }
   },
   {
     "name": "dl-server-1@sjang.xyz",
     "url": "http://dl.sjang.xyz/",
+    "icon": "https://favicons.githubusercontent.com/dl.sjang.xyz",
     "slug": "dl-server-1-sjang-xyz",
     "status": "down",
     "uptime": "0.00%",
@@ -77,11 +122,29 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 428,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 1440,
+      "2020-11-26": 1440,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 1337
+    }
   },
   {
     "name": "dl-server-2@sjang.xyz",
     "url": "http://dl2.sjang.xyz/",
+    "icon": "https://favicons.githubusercontent.com/dl2.sjang.xyz",
     "slug": "dl-server-2-sjang-xyz",
     "status": "down",
     "uptime": "0.00%",
@@ -93,11 +156,29 @@
     "timeDay": 261,
     "timeWeek": 289,
     "timeMonth": 286,
-    "timeYear": 286
+    "timeYear": 286,
+    "dailyMinutesDown": {
+      "2020-12-07": 428,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 1440,
+      "2020-11-26": 1440,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 1337
+    }
   },
   {
     "name": "dl-server-3@sjang.xyz",
     "url": "http://dl3.sjang.xyz/",
+    "icon": "https://favicons.githubusercontent.com/dl3.sjang.xyz",
     "slug": "dl-server-3-sjang-xyz",
     "status": "down",
     "uptime": "0.00%",
@@ -109,38 +190,67 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 428,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 1440,
+      "2020-11-26": 1440,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 1337
+    }
   },
   {
     "name": "desktop.sjang.dev - ping",
     "url": "https://desktop.sjang.dev/ping",
+    "icon": "https://favicons.githubusercontent.com/desktop.sjang.dev",
     "slug": "desktop-sjang-dev-ping",
-    "status": "up",
-    "uptime": "93.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.09%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "93.51%",
+    "status": "down",
+    "uptime": "93.64%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "89.04%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "93.64%",
     "time": 566,
     "timeDay": 653,
     "timeWeek": 584,
     "timeMonth": 566,
-    "timeYear": 566
+    "timeYear": 566,
+    "dailyMinutesDown": {
+      "2020-12-07": 1,
+      "2020-12-01": 333,
+      "2020-11-30": 968
+    }
   },
   {
     "name": "upload.sjang.xyz - ping",
     "url": "https://upload.sjang.xyz/ping",
+    "icon": "https://favicons.githubusercontent.com/upload.sjang.xyz",
     "slug": "upload-sjang-xyz-ping",
-    "status": "up",
-    "uptime": "93.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.09%",
-    "uptimeMonth": "93.52%",
-    "uptimeYear": "93.52%",
+    "status": "down",
+    "uptime": "93.65%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "89.05%",
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "93.65%",
     "time": 598,
     "timeDay": 705,
     "timeWeek": 609,
     "timeMonth": 598,
-    "timeYear": 598
+    "timeYear": 598,
+    "dailyMinutesDown": {
+      "2020-12-07": 0,
+      "2020-12-01": 333,
+      "2020-11-30": 967
+    }
   }
 ]
